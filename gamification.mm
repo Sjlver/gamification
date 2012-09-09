@@ -2041,8 +2041,7 @@
   <body>
     <img src="pbl.png"/>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font SIZE="12"/>
 </node>
 </node>
@@ -2221,6 +2220,112 @@
 </node>
 <node TEXT="different kinds of users?" ID="ID_587362195" CREATED="1347206348240" MODIFIED="1347206352501" COLOR="#111111">
 <font SIZE="12"/>
+</node>
+</node>
+</node>
+<node TEXT="Bing Gordon" ID="ID_324384052" CREATED="1347220375822" MODIFIED="1347220382930" COLOR="#00b439">
+<font SIZE="16"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+<node TEXT="gamification is the &quot;new normal&quot;" ID="ID_1950095404" CREATED="1347220429878" MODIFIED="1347220439970" COLOR="#990000">
+<font SIZE="14"/>
+<node TEXT="after 1971 (?)" ID="ID_566522185" CREATED="1347220440886" MODIFIED="1347220446313" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="people&apos;s goals have changed" ID="ID_134987846" CREATED="1347221209846" MODIFIED="1347221216177" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="wanna be the best version of themselves possible" ID="ID_767540668" CREATED="1347221217173" MODIFIED="1347221224854" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+</node>
+<node TEXT="game design important" ID="ID_189536164" CREATED="1347220458623" MODIFIED="1347220463449" COLOR="#990000">
+<font SIZE="14"/>
+<node TEXT="for motivation theory" ID="ID_1092646480" CREATED="1347220464212" MODIFIED="1347220468493" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="for communication" ID="ID_1658368309" CREATED="1347220468693" MODIFIED="1347220470876" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+<node TEXT="information sources" ID="ID_1541396332" CREATED="1347220569294" MODIFIED="1347220606481" COLOR="#990000">
+<font SIZE="14"/>
+<node TEXT="robert jones" ID="ID_3122175" CREATED="1347220574037" MODIFIED="1347220579892" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="designs good golf courses" ID="ID_1384083926" CREATED="1347220580660" MODIFIED="1347220585540" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+<node TEXT="blogs of interaction designers" ID="ID_1761178031" CREATED="1347220595977" MODIFIED="1347220600962" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="play great games" ID="ID_1226644251" CREATED="1347220601171" MODIFIED="1347220603934" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="information not written down" ID="ID_1528765026" CREATED="1347220639339" MODIFIED="1347220650523" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="but present in those games" ID="ID_1144670814" CREATED="1347220650740" MODIFIED="1347220654250" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="example: party system in WoW" ID="ID_197289262" CREATED="1347220661275" MODIFIED="1347220666550" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="people suddenly play with strangers" ID="ID_1989614769" CREATED="1347220674904" MODIFIED="1347220681916" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="they cooperate, respect looting rules" ID="ID_1719401673" CREATED="1347220684454" MODIFIED="1347220690775" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="need/greed" ID="ID_1797762015" CREATED="1347220693639" MODIFIED="1347220695670" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+<node TEXT="need to buff others" ID="ID_718863274" CREATED="1347220718325" MODIFIED="1347220720969" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="a good party should be 20% more effective than a not-so-good one" ID="ID_598685825" CREATED="1347220732952" MODIFIED="1347220746446" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="mistakes" ID="ID_1808394826" CREATED="1347220775641" MODIFIED="1347220777659" COLOR="#990000">
+<font SIZE="14"/>
+<node TEXT="motivation = winning competition" ID="ID_1136997512" CREATED="1347220778958" MODIFIED="1347220786685" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="actually, cooperation is 3x more important" ID="ID_1415844814" CREATED="1347220787406" MODIFIED="1347220795602" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+<node TEXT="high-score rankings" ID="ID_1314465251" CREATED="1347220799749" MODIFIED="1347220805147" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="are actually demotivating for many" ID="ID_220852763" CREATED="1347220805818" MODIFIED="1347220812096" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="because 90% of all people are not in the top 10%" ID="ID_1456400655" CREATED="1347220814577" MODIFIED="1347220826759" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+</node>
+<node TEXT="just a fad?" ID="ID_1885399549" CREATED="1347220911560" MODIFIED="1347220914476" COLOR="#990000">
+<font SIZE="14"/>
+<node TEXT="no, e.g. grades are rewards that are as old as school" ID="ID_36518467" CREATED="1347220915285" MODIFIED="1347220932093" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="play = great accelerator of human culture" ID="ID_631506436" CREATED="1347220933894" MODIFIED="1347220941336" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+<node TEXT="key points in gamification" ID="ID_902142903" CREATED="1347220505446" MODIFIED="1347220516567" COLOR="#990000">
+<font SIZE="14"/>
+<node TEXT="instant feedback" ID="ID_423764598" CREATED="1347220497407" MODIFIED="1347220505453" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="precise feedback" ID="ID_539213442" CREATED="1347220544777" MODIFIED="1347220547802" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="need great failures" ID="ID_1023742153" CREATED="1347220985711" MODIFIED="1347220992213" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="e.g. apple in the garden of Eden" ID="ID_217404275" CREATED="1347220992909" MODIFIED="1347221010640" COLOR="#111111">
+<font SIZE="12"/>
+</node>
 </node>
 </node>
 </node>
