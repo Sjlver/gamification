@@ -2333,5 +2333,348 @@
 </node>
 </node>
 </node>
+<node TEXT="Motivation" POSITION="right" ID="ID_913125409" CREATED="1347396468521" MODIFIED="1347396475081" COLOR="#0033ff">
+<font SIZE="18"/>
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<icon BUILTIN="full-5"/>
+<node TEXT="intro" ID="ID_727729110" CREATED="1347396559788" MODIFIED="1347396561491" COLOR="#00b439">
+<font SIZE="16"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+<node TEXT="motivation important to understand why/how gamification works" ID="ID_1959616661" CREATED="1347396562206" MODIFIED="1347396576025" COLOR="#990000">
+<font SIZE="14"/>
+</node>
+<node TEXT="why do people do something?" ID="ID_341673348" CREATED="1347396576234" MODIFIED="1347396592176" COLOR="#990000">
+<font SIZE="14"/>
+<node TEXT="rewards?" ID="ID_972518177" CREATED="1347396593252" MODIFIED="1347396594851" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="intrinsic motivation?" ID="ID_1289541414" CREATED="1347396595052" MODIFIED="1347396599016" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="fun?" ID="ID_1461355769" CREATED="1347396605593" MODIFIED="1347396607388" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="because it&apos;s new?" ID="ID_619374633" CREATED="1347396623072" MODIFIED="1347396626064" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="because somebody else does it?" ID="ID_854318061" CREATED="1347396644173" MODIFIED="1347396655225" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="peer/social pressure?" ID="ID_1506420390" CREATED="1347396672798" MODIFIED="1347396697550" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+</node>
+<node TEXT="example" ID="ID_802202042" CREATED="1347396905227" MODIFIED="1347396909798" COLOR="#00b439">
+<font SIZE="16"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+<node TEXT="major league baseball badges" ID="ID_1186079492" CREATED="1347396910217" MODIFIED="1347396917083" COLOR="#990000">
+<font SIZE="14"/>
+<node TEXT="no observable use" ID="ID_721471153" CREATED="1347396917700" MODIFIED="1347396922505" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="no reward or value" ID="ID_1747013511" CREATED="1347396922713" MODIFIED="1347396926682" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="but motivate a lot of people!" ID="ID_688549500" CREATED="1347396926883" MODIFIED="1347396932571" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+<node TEXT="apple store" ID="ID_519183973" CREATED="1347397015738" MODIFIED="1347397018313" COLOR="#990000">
+<font SIZE="14"/>
+<node TEXT="not an &quot;efficient&quot; store" ID="ID_1041020813" CREATED="1347397018961" MODIFIED="1347397027746" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="but invites people to spend time in the store..." ID="ID_693233013" CREATED="1347397027955" MODIFIED="1347397035851" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="... get to know the products" ID="ID_502726562" CREATED="1347397036338" MODIFIED="1347397042576" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="... try things out" ID="ID_1695895494" CREATED="1347397045824" MODIFIED="1347397049645" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+</node>
+<node TEXT="behaviorism" ID="ID_1551133892" CREATED="1347397067269" MODIFIED="1347397071911" COLOR="#00b439">
+<font SIZE="16"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+<node TEXT="idea" ID="ID_661574508" CREATED="1347397095367" MODIFIED="1347397098817" COLOR="#990000">
+<font SIZE="14"/>
+<node TEXT="internal states of a mind are not observable" ID="ID_1049095110" CREATED="1347397107455" MODIFIED="1347397118561" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="&#x21d2; treat the mind as black box" ID="ID_284877889" CREATED="1347397134942" MODIFIED="1347397142572" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="focus in inputs (senses) and outputs (actions)" ID="ID_440935057" CREATED="1347397149889" MODIFIED="1347397161259" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="limited but very influential" ID="ID_210557305" CREATED="1347397342985" MODIFIED="1347397349258" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+<node TEXT="stimulus" ID="ID_359531974" CREATED="1347397177527" MODIFIED="1347397188395" COLOR="#990000">
+<font SIZE="14"/>
+<node TEXT="external input" ID="ID_1188051690" CREATED="1347397189236" MODIFIED="1347397199572" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+<node TEXT="response" ID="ID_716570245" CREATED="1347397200239" MODIFIED="1347397201801" COLOR="#990000">
+<font SIZE="14"/>
+</node>
+<node TEXT="Pavlow" ID="ID_60770574" CREATED="1347397204403" MODIFIED="1347397210729" COLOR="#990000">
+<font SIZE="14"/>
+<node TEXT="classical conditioning" ID="ID_957403185" CREATED="1347397211897" MODIFIED="1347397215582" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="stimulus directly produces response" ID="ID_1253707178" CREATED="1347397215824" MODIFIED="1347397225705" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+<node TEXT="operant conditioning" ID="ID_817407172" CREATED="1347397231539" MODIFIED="1347397236379" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="stimulus-response cycle" ID="ID_943614195" CREATED="1347397243822" MODIFIED="1347397251817" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="feedback loop" ID="ID_544633132" CREATED="1347397252049" MODIFIED="1347397254561" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="subjects learn causes and effects" ID="ID_1019032407" CREATED="1347397307290" MODIFIED="1347397317612" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+</node>
+<node TEXT="behavioral economics" ID="ID_1743461537" CREATED="1347397354979" MODIFIED="1347397361357" COLOR="#990000">
+<font SIZE="14"/>
+<node TEXT="people make &quot;mistakes&quot;" ID="ID_1547843751" CREATED="1347397373608" MODIFIED="1347397379351" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="loss aversion" ID="ID_1442477121" CREATED="1347397379866" MODIFIED="1347397384508" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="more afraid of losing than winning" ID="ID_536409112" CREATED="1347397414990" MODIFIED="1347397421371" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="50% proba of winning 100$ seems less valuable than 50% proba of not losing 100$" ID="ID_580055146" CREATED="1347397432366" MODIFIED="1347397467040" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+<node TEXT="power of defaults" ID="ID_90412884" CREATED="1347397477218" MODIFIED="1347397480049" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="opt-in vs opt-out matters" ID="ID_760290953" CREATED="1347397480837" MODIFIED="1347397486204" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+<node TEXT="confirmation bias" ID="ID_490775812" CREATED="1347397501384" MODIFIED="1347397503840" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="people see what they are looking for" ID="ID_797829163" CREATED="1347397504496" MODIFIED="1347397509435" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="takeaways" ID="ID_1577787181" CREATED="1347397554117" MODIFIED="1347397556359" COLOR="#990000">
+<font SIZE="14"/>
+<node TEXT="observation is important" ID="ID_168484326" CREATED="1347397557128" MODIFIED="1347397561823" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="feedback loops" ID="ID_627206792" CREATED="1347397562034" MODIFIED="1347397564871" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="reinforcements" ID="ID_1721782081" CREATED="1347397565481" MODIFIED="1347397569421" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="learning occurs by reinforcements of stimuli" ID="ID_1457935399" CREATED="1347397575632" MODIFIED="1347397589937" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+</node>
+<node TEXT="in gamification" ID="ID_1033497351" CREATED="1347397606982" MODIFIED="1347397610424" COLOR="#990000">
+<font SIZE="14"/>
+<node TEXT="watch what people _do_" ID="ID_1262200972" CREATED="1347397617506" MODIFIED="1347397625797" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="it&apos;s often counter-intuitive" ID="ID_225311039" CREATED="1347397667558" MODIFIED="1347397672951" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="e.g. people slow down when they see their speed" ID="ID_722665600" CREATED="1347397673161" MODIFIED="1347397681247" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="... even if they don&apos;t get a ticket" ID="ID_1382117941" CREATED="1347397682579" MODIFIED="1347397688087" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+<node TEXT="importance of feedback" ID="ID_1011329007" CREATED="1347397692974" MODIFIED="1347397696772" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="e.g. linkedIn profile completeness bar" ID="ID_598359086" CREATED="1347397698974" MODIFIED="1347397706589" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="common in diets, quit-smoking-programmes, ..." ID="ID_1368197188" CREATED="1347397770066" MODIFIED="1347397781116" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+<node TEXT="conditioning through consequences" ID="ID_1144064939" CREATED="1347397785809" MODIFIED="1347397791276" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="crops in FarmVille wither if not watered" ID="ID_94279398" CREATED="1347397797483" MODIFIED="1347397820085" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="&#x21d2; people log in very regularly" ID="ID_1901541751" CREATED="1347397833290" MODIFIED="1347397839907" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+<node TEXT="reinforcement through rewards" ID="ID_1391408627" CREATED="1347397854155" MODIFIED="1347397860719" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="when people do something..." ID="ID_1902609910" CREATED="1347397875182" MODIFIED="1347397883889" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="... they get some reward" ID="ID_167175875" CREATED="1347397884490" MODIFIED="1347397889783" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="&#x21d2; people learn this connection" ID="ID_475859102" CREATED="1347397890585" MODIFIED="1347397898064" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+<node TEXT="caveat" ID="ID_1696166272" CREATED="1347398555489" MODIFIED="1347398556944" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="these systems are powerful" ID="ID_686028545" CREATED="1347398557673" MODIFIED="1347398563874" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="but not everything is so simple" ID="ID_616776196" CREATED="1347398564106" MODIFIED="1347398571033" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+</node>
+<node TEXT="dopamine" ID="ID_1069965993" CREATED="1347398591472" MODIFIED="1347398594600" COLOR="#990000">
+<font SIZE="14"/>
+<node TEXT="rewards cause dopamine release" ID="ID_346011012" CREATED="1347398595339" MODIFIED="1347398601466" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="this is very pleasurable" ID="ID_74955684" CREATED="1347398601609" MODIFIED="1347398607621" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="... and creates this positive feedback" ID="ID_861773059" CREATED="1347398607820" MODIFIED="1347398626798" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+</node>
+<node TEXT="reward structures" ID="ID_1125249647" CREATED="1347398674175" MODIFIED="1347398680482" COLOR="#00b439">
+<font SIZE="16"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+<node TEXT="rewards for all sorts of things" ID="ID_1753699989" CREATED="1347398685356" MODIFIED="1347398692811" COLOR="#990000">
+<font SIZE="14"/>
+<node TEXT="example: foursquare" ID="ID_653266074" CREATED="1347398713717" MODIFIED="1347398717544" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="check in the first time" ID="ID_1109246727" CREATED="1347398694277" MODIFIED="1347398699924" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="check in 10 times" ID="ID_506578082" CREATED="1347398700093" MODIFIED="1347398703678" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="check in every day" ID="ID_431999729" CREATED="1347398704165" MODIFIED="1347398707374" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="be part of a flash mob" ID="ID_1266675894" CREATED="1347398707557" MODIFIED="1347398712074" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+<node TEXT="Cognitive Evaluation Theory" ID="ID_410260320" CREATED="1347398721374" MODIFIED="1347398734617" COLOR="#990000">
+<font SIZE="14"/>
+<node TEXT="tangible vs intangible" ID="ID_1752353623" CREATED="1347398743257" MODIFIED="1347398748651" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="badge = intangible" ID="ID_309368049" CREATED="1347398750877" MODIFIED="1347398755352" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="unless it&apos;s the boyscouts badge that you sew on your shirt" ID="ID_210675918" CREATED="1347398763527" MODIFIED="1347398774684" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+<node TEXT="digital things = intangible" ID="ID_1074496724" CREATED="1347398781243" MODIFIED="1347398787038" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="money = tangible" ID="ID_1958783849" CREATED="1347398755569" MODIFIED="1347398759374" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+<node TEXT="expected vs unexpected" ID="ID_1526967989" CREATED="1347398788613" MODIFIED="1347398793236" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="we love surprises!" ID="ID_888603357" CREATED="1347398793892" MODIFIED="1347398799309" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="unexpected rewards are better" ID="ID_780243721" CREATED="1347398802911" MODIFIED="1347398810732" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="...yet in gamified systems, many rewards are predictable" ID="ID_247382911" CREATED="1347398810947" MODIFIED="1347398819791" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+<node TEXT="contingency" ID="ID_709533517" CREATED="1347398829916" MODIFIED="1347398833857" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="non-contingent" ID="ID_364688276" CREATED="1347398834643" MODIFIED="1347398843229" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="player gets reward no matter what" ID="ID_686453057" CREATED="1347398844048" MODIFIED="1347398852557" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="not that effective..." ID="ID_593527271" CREATED="1347398852748" MODIFIED="1347398856358" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+<node TEXT="engagement-contingent" ID="ID_42845224" CREATED="1347398857156" MODIFIED="1347398862410" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="reward when starting an activity" ID="ID_1891702185" CREATED="1347398863157" MODIFIED="1347398871046" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+<node TEXT="completion-contingent" ID="ID_378945467" CREATED="1347398876661" MODIFIED="1347398880083" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="reward when finishing" ID="ID_1024223122" CREATED="1347398881895" MODIFIED="1347398887230" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+<node TEXT="performance-contingent" ID="ID_1515678296" CREATED="1347398907697" MODIFIED="1347398914188" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="reward for good performance" ID="ID_154124584" CREATED="1347398915100" MODIFIED="1347398921927" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+</node>
+<node TEXT="examples" ID="ID_1034697701" CREATED="1347398940266" MODIFIED="1347398944707" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="samsung nation cruise badge" ID="ID_1923770344" CREATED="1347398945478" MODIFIED="1347398951480" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="intangible" ID="ID_308636575" CREATED="1347398960598" MODIFIED="1347398962349" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="unexpected" ID="ID_618357409" CREATED="1347398957356" MODIFIED="1347398960381" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="engagement-contingent" ID="ID_1100124635" CREATED="1347398962558" MODIFIED="1347399021406" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="one has to start spending time on the size" ID="ID_970360576" CREATED="1347399022254" MODIFIED="1347399028651" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+</node>
+<node TEXT="WoW accomplished angler" ID="ID_1435437433" CREATED="1347399085241" MODIFIED="1347399091449" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="mix of many components" ID="ID_1843116545" CREATED="1347399116393" MODIFIED="1347399120295" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="catch 1000 fish" ID="ID_1943528158" CREATED="1347399092138" MODIFIED="1347399096605" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="completion-contingent" ID="ID_1828076275" CREATED="1347399097184" MODIFIED="1347399115053" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+<node TEXT="win local fishing competition" ID="ID_1936285745" CREATED="1347399101295" MODIFIED="1347399106053" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="performance-contingent" ID="ID_414324079" CREATED="1347399107216" MODIFIED="1347399111408" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="cognitivism" ID="ID_1037105778" CREATED="1347397077685" MODIFIED="1347397081042" COLOR="#00b439">
+<font SIZE="16"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+</node>
+</node>
 </node>
 </map>
