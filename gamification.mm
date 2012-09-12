@@ -2671,6 +2671,82 @@
 </node>
 </node>
 </node>
+<node TEXT="reward schedules" ID="ID_1924758374" CREATED="1347437383852" MODIFIED="1347437387326" COLOR="#00b439">
+<font SIZE="16"/>
+<edge STYLE="bezier" WIDTH="thin"/>
+<node TEXT="continuous" ID="ID_1311725482" CREATED="1347437388124" MODIFIED="1347437390643" COLOR="#990000">
+<font SIZE="14"/>
+<node TEXT="automatic reward for each action" ID="ID_270385962" CREATED="1347437397276" MODIFIED="1347437404499" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="not so interesting... doesn&apos;t feel like a reward" ID="ID_686748506" CREATED="1347437488405" MODIFIED="1347437496531" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+<node TEXT="fixed ratio" ID="ID_673581680" CREATED="1347437405744" MODIFIED="1347437408127" COLOR="#990000">
+<font SIZE="14"/>
+<node TEXT="players get rewards for every n actions" ID="ID_1537931938" CREATED="1347437425629" MODIFIED="1347437437263" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+<node TEXT="fixed interval" ID="ID_298315365" CREATED="1347437438504" MODIFIED="1347437441028" COLOR="#990000">
+<font SIZE="14"/>
+<node TEXT="players get rewards every week" ID="ID_1624979865" CREATED="1347437442340" MODIFIED="1347437447478" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+<node TEXT="variable" ID="ID_1359612447" CREATED="1347437475467" MODIFIED="1347437476889" COLOR="#990000">
+<font SIZE="14"/>
+<node TEXT="most interesting, since surprising" ID="ID_548554002" CREATED="1347437521163" MODIFIED="1347437527382" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="competitive or not" ID="ID_1094254491" CREATED="1347437617960" MODIFIED="1347437623156" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="need to compete with other players?" ID="ID_80337010" CREATED="1347437627579" MODIFIED="1347437633727" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+<node TEXT="certain vs uncertain" ID="ID_1562884165" CREATED="1347437634540" MODIFIED="1347437639765" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="maybe players have a 5% chance of winning" ID="ID_1199938743" CREATED="1347437640784" MODIFIED="1347437652944" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+</node>
+<node TEXT="example" ID="ID_935318812" CREATED="1347437575048" MODIFIED="1347437576767" COLOR="#990000">
+<font SIZE="14"/>
+<node TEXT="samsung nation hangout quest" ID="ID_1395600269" CREATED="1347437579623" MODIFIED="1347437586194" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="fixed interval" ID="ID_197933964" CREATED="1347437587067" MODIFIED="1347437589433" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+<node TEXT="number of site visits" ID="ID_759512720" CREATED="1347437593687" MODIFIED="1347437598352" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="fixed ratio" ID="ID_747628976" CREATED="1347437603385" MODIFIED="1347437605531" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+<node TEXT="baseball league badges" ID="ID_1850514812" CREATED="1347437709170" MODIFIED="1347437718539" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="uncertain, only triggered when a certain player does certain things" ID="ID_1788700144" CREATED="1347437719173" MODIFIED="1347437736562" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+<node TEXT="slot machine" ID="ID_857150470" CREATED="1347437740741" MODIFIED="1347437742519" COLOR="#111111">
+<font SIZE="12"/>
+<node TEXT="variable schedule" ID="ID_1520622006" CREATED="1347437747667" MODIFIED="1347437751490" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="uncertain reward" ID="ID_523195851" CREATED="1347437751683" MODIFIED="1347437754510" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+<node TEXT="but just enough likely to keep people playing" ID="ID_1392938055" CREATED="1347437754720" MODIFIED="1347437764309" COLOR="#111111">
+<font SIZE="12"/>
+</node>
+</node>
+</node>
+</node>
 <node TEXT="cognitivism" ID="ID_1037105778" CREATED="1347397077685" MODIFIED="1347397081042" COLOR="#00b439">
 <font SIZE="16"/>
 <edge STYLE="bezier" WIDTH="thin"/>
